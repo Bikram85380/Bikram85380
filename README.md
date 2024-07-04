@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Bikram85380
+- 👋 Hi, I’m Bikram Bagdi
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me bikram8538@gmail.com
-- 😄 Pronouns: Bikram
+- 😄 Pronouns: Iikaam
 - ⚡ Fun fact: I am a Civil Engineer
 
 <!---
